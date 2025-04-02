@@ -1,0 +1,20 @@
+{
+  "redirects": [
+    {
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/{perfil-de-linkedin}",
+      "permanent": true
+    },
+    {
+      "source": "/instagram",
+      "destination": "https://www.instagram.com/{perfil-de-instagram}",
+      "permanent": true
+    },
+
+    {
+      "source": "/facebook",
+      "destination": "https://www.facebook.com/{perfil-de-facebook}",
+      "permanent": true
+    }
+  ]
+}
